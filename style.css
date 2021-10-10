@@ -90,7 +90,8 @@
     top:-78px;
 }
 #creditos-2{
-    top:25px;
+    position: relative;
+    top:-65px;
 }
 #img-3-video-3-creditos-3{
     width:150px;
